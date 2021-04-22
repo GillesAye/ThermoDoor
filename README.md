@@ -1,1 +1,1 @@
-# ThermoDoor
+# ThermoDoor Project
